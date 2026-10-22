@@ -8479,11 +8479,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\AzureDevOps\\Practice\\DemoLogicAppApi.Tests\\DemoLogicAppApi.Tests.csproj",
       "projectName": "DemoLogicAppApi.Tests",
       "projectPath": "C:\\Users\\Administrator\\Desktop\\AzureDevOps\\Practice\\DemoLogicAppApi.Tests\\DemoLogicAppApi.Tests.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Administrator\\Desktop\\AzureDevOps\\Practice\\DemoLogicAppApi.Tests\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\Administrator\\Downloads\\LogicHouse-master\\LogicHouse-master\\DemoLogicAppApi.Tests\\DemoLogicAppApi.Tests.csproj",
+      "projectName": "DemoLogicAppApi.Tests",
+      "projectPath": "C:\\Users\\Administrator\\Downloads\\LogicHouse-master\\LogicHouse-master\\DemoLogicAppApi.Tests\\DemoLogicAppApi.Tests.csproj",
+      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Administrator\\Downloads\\LogicHouse-master\\LogicHouse-master\\DemoLogicAppApi.Tests\\obj\\",
+>>>>>>> 3bea73c0cf08e74b01218061ac35cda9b0bf607f
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -8504,8 +8512,13 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
+<<<<<<< HEAD
             "C:\\Users\\Administrator\\Desktop\\AzureDevOps\\Practice\\DemoLogicAppApi\\DemoLogicAppApi.csproj": {
               "projectPath": "C:\\Users\\Administrator\\Desktop\\AzureDevOps\\Practice\\DemoLogicAppApi\\DemoLogicAppApi.csproj"
+=======
+            "C:\\Users\\Administrator\\Downloads\\LogicHouse-master\\LogicHouse-master\\DemoLogicAppApi\\DemoLogicAppApi.csproj": {
+              "projectPath": "C:\\Users\\Administrator\\Downloads\\LogicHouse-master\\LogicHouse-master\\DemoLogicAppApi\\DemoLogicAppApi.csproj"
+>>>>>>> 3bea73c0cf08e74b01218061ac35cda9b0bf607f
             }
           }
         }

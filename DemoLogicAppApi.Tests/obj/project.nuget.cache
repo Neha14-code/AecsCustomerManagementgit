@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "pC8LHXdE0YY=",
   "success": true,
   "projectFilePath": "C:\\Users\\Administrator\\Desktop\\AzureDevOps\\Practice\\DemoLogicAppApi.Tests\\DemoLogicAppApi.Tests.csproj",
+=======
+  "dgSpecHash": "JCbOk1Q1x70=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Downloads\\LogicHouse-master\\LogicHouse-master\\DemoLogicAppApi.Tests\\DemoLogicAppApi.Tests.csproj",
+>>>>>>> 3bea73c0cf08e74b01218061ac35cda9b0bf607f
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
